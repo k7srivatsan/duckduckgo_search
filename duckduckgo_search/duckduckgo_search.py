@@ -179,10 +179,6 @@ class DDGS:
 
         payload = {
             "q": keywords,  #
-            "kl": region,
-            "l": region,
-            "s": 0,
-            "df": timelimit,
             "vqd": vqd,
             "o": "json",
             "sp": "0",
